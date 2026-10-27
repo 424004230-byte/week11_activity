@@ -1,0 +1,7 @@
+[Library Hall] Snack machine is out of stock.
+Requesting inventory update...
+[Library Hall] Connecting to inventory server...
+[Library Hall] Restock complete! New snack count: 10
+[Library Hall] Dispensed a snack! Snacks remaining: 9
+[Main Lobby] Payment of $3.5 processed. Total balance: $3.5
+[Main Lobby] Dispensing a cold drink chilled at 4°C!
